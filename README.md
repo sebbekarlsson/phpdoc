@@ -1,5 +1,5 @@
 # PHPDoc
-> PHP function documentation in your __commandline__!
+> PHP function documentation in your __command line__!
 
 ![gif.gif](gif.gif)
 
